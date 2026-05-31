@@ -19,5 +19,9 @@ Model_V28_Fluorescence_Best.pth解释：V28 模型训练得到的最佳权重参
 Model_V31_Fluorescence_Best.pth解释：V31 极限模型训练得到的最佳权重参数文件（斩获 99.91% 准确率的节点）。
 
 
+环境配置：压缩包有相应的文件
 
+方案一：如果您使用的是 Windows 系统（并且已经安装了 Anaconda 或 Miniconda），请在项目根目录下新建一个名为 setup.bat 的文件；
+方案二：如果您使用的是 Linux 服务器或者 Windows 的 WSL 子系统，请在项目根目录下新建一个名为 setup.sh 的文件，；
+方案三：除了上述的一键自动化脚本，为了符合 GitHub 开源项目的最高规范，您还必须在项目根目录放一个名为 requirements.txt 的文件，方便不想用一键脚本的极客开发者手动安装。
  
